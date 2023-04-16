@@ -1,1 +1,1 @@
-Information about [course](https://github.com/andriygav/PSAD).
+[Сourse](https://github.com/andriygav/PSAD) information.
